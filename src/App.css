@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.profile-card {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: #f9f9f9;
+}
+
+.profile-card img {
+  width: 200px;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
